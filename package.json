@@ -116,5 +116,5 @@
         "webpack-cli": "^6.0.1"
     },
     "thingytype": "pwa",
-    "lang": "en"
+    "lang": "de"
 }
